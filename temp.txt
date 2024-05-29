@@ -1,0 +1,14 @@
+//Selected
+Support Vector Machine Accuracy:  1.0
+K Nearest Neighbours Accuracy:  1.0
+Logistic Regression Accuracy:  1.0
+MLP Classifier Accuracy:  1.0
+Random Forrest Classifier Accuracy:  0.9761904761904762
+
+//Not Selected
+Gradient Boost Classifier Accuracy:  0.9761904761904762
+Decision Tree Accuracy:  0.9761904761904762
+
+High accuarcy because of less data available to train and test 
+
+Possible overfitting on the given data set
