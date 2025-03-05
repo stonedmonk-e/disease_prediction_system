@@ -1,4 +1,5 @@
 # disease_prediction_system
+This project implements a **stacked ensemble model** combining multiple classifiers (Random Forest, SVM, KNN, Logistic Regression, MLP) as base models and **XGBoost** as the meta-learner. The base models generate predictions, which are then used as input for XGBoost to improve accuracy. The final model is trained, evaluated, and tested on a preprocessed dataset.
 
 ## Machine Learning Models
 Random Forest (Ensemble, robust, low bias)
